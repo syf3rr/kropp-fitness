@@ -2,7 +2,7 @@ Kropp-Fitness
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-EN: Project Description:
+Project Description:
 Business card website for a network of gyms, developed using pure HTML5 and CSS3.
 
 Technologies Used:
